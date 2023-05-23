@@ -1,0 +1,15 @@
+D:\Universitate\2023\Laborator1_PR\Laborator1_PR\bin\Debug\net7.0\Server.exe
+D:\Universitate\2023\Laborator1_PR\Laborator1_PR\bin\Debug\net7.0\Server.deps.json
+D:\Universitate\2023\Laborator1_PR\Laborator1_PR\bin\Debug\net7.0\Server.runtimeconfig.json
+D:\Universitate\2023\Laborator1_PR\Laborator1_PR\bin\Debug\net7.0\Server.dll
+D:\Universitate\2023\Laborator1_PR\Laborator1_PR\bin\Debug\net7.0\Server.pdb
+D:\Universitate\2023\Laborator1_PR\Laborator1_PR\obj\Debug\net7.0\Server.csproj.AssemblyReference.cache
+D:\Universitate\2023\Laborator1_PR\Laborator1_PR\obj\Debug\net7.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universitate\2023\Laborator1_PR\Laborator1_PR\obj\Debug\net7.0\Server.AssemblyInfoInputs.cache
+D:\Universitate\2023\Laborator1_PR\Laborator1_PR\obj\Debug\net7.0\Server.AssemblyInfo.cs
+D:\Universitate\2023\Laborator1_PR\Laborator1_PR\obj\Debug\net7.0\Server.csproj.CoreCompileInputs.cache
+D:\Universitate\2023\Laborator1_PR\Laborator1_PR\obj\Debug\net7.0\Server.dll
+D:\Universitate\2023\Laborator1_PR\Laborator1_PR\obj\Debug\net7.0\refint\Server.dll
+D:\Universitate\2023\Laborator1_PR\Laborator1_PR\obj\Debug\net7.0\Server.pdb
+D:\Universitate\2023\Laborator1_PR\Laborator1_PR\obj\Debug\net7.0\Server.genruntimeconfig.cache
+D:\Universitate\2023\Laborator1_PR\Laborator1_PR\obj\Debug\net7.0\ref\Server.dll

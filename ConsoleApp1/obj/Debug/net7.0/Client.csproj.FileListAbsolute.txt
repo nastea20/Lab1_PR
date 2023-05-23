@@ -1,0 +1,15 @@
+D:\Universitate\2023\Laborator1_PR\ConsoleApp1\bin\Debug\net7.0\Client.exe
+D:\Universitate\2023\Laborator1_PR\ConsoleApp1\bin\Debug\net7.0\Client.deps.json
+D:\Universitate\2023\Laborator1_PR\ConsoleApp1\bin\Debug\net7.0\Client.runtimeconfig.json
+D:\Universitate\2023\Laborator1_PR\ConsoleApp1\bin\Debug\net7.0\Client.dll
+D:\Universitate\2023\Laborator1_PR\ConsoleApp1\bin\Debug\net7.0\Client.pdb
+D:\Universitate\2023\Laborator1_PR\ConsoleApp1\obj\Debug\net7.0\Client.csproj.AssemblyReference.cache
+D:\Universitate\2023\Laborator1_PR\ConsoleApp1\obj\Debug\net7.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universitate\2023\Laborator1_PR\ConsoleApp1\obj\Debug\net7.0\Client.AssemblyInfoInputs.cache
+D:\Universitate\2023\Laborator1_PR\ConsoleApp1\obj\Debug\net7.0\Client.AssemblyInfo.cs
+D:\Universitate\2023\Laborator1_PR\ConsoleApp1\obj\Debug\net7.0\Client.csproj.CoreCompileInputs.cache
+D:\Universitate\2023\Laborator1_PR\ConsoleApp1\obj\Debug\net7.0\Client.dll
+D:\Universitate\2023\Laborator1_PR\ConsoleApp1\obj\Debug\net7.0\refint\Client.dll
+D:\Universitate\2023\Laborator1_PR\ConsoleApp1\obj\Debug\net7.0\Client.pdb
+D:\Universitate\2023\Laborator1_PR\ConsoleApp1\obj\Debug\net7.0\Client.genruntimeconfig.cache
+D:\Universitate\2023\Laborator1_PR\ConsoleApp1\obj\Debug\net7.0\ref\Client.dll
